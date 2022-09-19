@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 
+<!--
 | <a href="https://github.com/kusou1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kusou1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kusou1's github stats" /></a> | <a href="https://github.com/kusou1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusou1&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
@@ -32,3 +33,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+-->
